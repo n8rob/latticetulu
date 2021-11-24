@@ -4,7 +4,7 @@ os.chdir(os.getcwd())
 
 import videocr 
 
-movie_name = "kudla_cafe"
+movie_name = "uppadu"
 
 def main():
   videocr.api.save_subtitles_to_file(
