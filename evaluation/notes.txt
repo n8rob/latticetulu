@@ -1,0 +1,7 @@
+start
+
+Tamil: python3 eval.py --out-hyp ../tamil_data/nate_tamil_5ep_output.txt --transcriptions ../tamil_data/cv-corpus-7.0-2021-07-21/ta/package/ordered_transcriptions.txt --audio-csv ../tamil_data/covost_v2.ta_en.tsv --lang tam
+
+Arabic: python3 eval.py --out-hyp ../arabic_data/nate_arabic_5ep_output.txt --transcriptions ../arabic_data/package/ordered_transcriptions.txt --lang ara --audio-csv ../arabic_data/covost_v2.ar_en.tsv
+
+end
